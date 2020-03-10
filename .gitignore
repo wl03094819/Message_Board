@@ -1,0 +1,9 @@
+*.jar
+
+*.war
+
+*.jar.original
+
+*.war.original
+
+*.tar
