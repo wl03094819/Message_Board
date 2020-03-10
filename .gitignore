@@ -5,3 +5,5 @@
 *.jar.original
 
 *.war.original
+
+*.tar
