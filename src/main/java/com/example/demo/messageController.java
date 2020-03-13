@@ -15,9 +15,6 @@ import com.example.demo.services.MessageServices;
 
 @Controller
 public class messageController {
-
-	@Autowired
-	MessageRespository messageRespository;
 	
 	@Autowired
 	MessageServices messageServices;
